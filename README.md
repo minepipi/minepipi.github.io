@@ -6,5 +6,6 @@ Pi 是一种新的加密货币，为普通人所开发，你可以通过手机 "
 Pi 币的邀请码是**minepipi**, inviation code:**minepipi**
 
 #### 访问地址
+https://minepipi.github.io/
 
 
